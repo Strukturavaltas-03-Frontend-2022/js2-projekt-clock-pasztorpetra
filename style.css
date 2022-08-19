@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+	font-family: Cyberverse;
+	src: url("");
+}
+
+.clock {
+  height: 100vh;
+  width: 100%;
+  background-color: #000000;
+  color: #b4cae6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+}
