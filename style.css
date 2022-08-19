@@ -5,8 +5,8 @@
 }
 
 @font-face {
-	font-family: Cyberverse;
-	src: url("");
+  font-family: Cyberverse;
+  src: url("/font/Cyberverse.otf");
 }
 
 .clock {
